@@ -6,8 +6,8 @@ A collection of Operating Systems lab experiments covering shell scripting, proc
 
 | # | Folder | Description |
 |---|--------|-------------|
-| 1 | [`exp1/`](exp1/) | Checks whether the argument passed is `0` and prints `True` or `False`. |
-| 2 | [`exp2/`](exp2/) | Checks whether the argument is a file, a directory, or does not exist. |
+| 1 | [`exp1/`](exp1/) | Practice Basic bash, I/O redirection, Pipe, File & Directory Operations, Searching Files, Process Management and Text Editors. |
+| 2 | [`exp2/`](exp2/) | Practice Basic Bash, Process Management. |
 | 3a | [`exp3a/`](exp3a/) | File/directory check with validation for a missing argument. |
 | 3b | [`exp3b/`](exp3b/) | Renames the given files to uppercase filenames. |
 | 4a | [`exp4a/`](exp4a/) | Calculates the total working time of a logged-in user. |
